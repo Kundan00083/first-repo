@@ -1,0 +1,7 @@
+git add [filename] - adds the mentioned file to stage
+git add . - adds all the files in current working directory (cwd) to stage
+git status - will give the status of current branch
+
+U - untracked
+M - Modified
+D - Deleted
