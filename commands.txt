@@ -1,7 +1,19 @@
+Local - your own system where you are working on the project
+Repository - a storage where we can store our git enabled project; 
+Remote Repository - a repository which is present on some other server other than your local
+
+
+git init
 git add [filename] - adds the mentioned file to stage
 git add . - adds all the files in current working directory (cwd) to stage
 git status - will give the status of current branch
+git commit -m "COMMIT MESSAGE"
+git remote add - will add a remote repository link to the local repository
+
+
 
 U - untracked
 M - Modified
 D - Deleted
+
+
