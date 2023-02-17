@@ -2,6 +2,11 @@ Title
 NITW is a great college.
 
 Body
+<<<<<<< HEAD
 This is the Body of essay.
 Conclusion
 This is concluding line.
+=======
+
+Conclusion
+>>>>>>> vatsal
